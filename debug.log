@@ -1,0 +1,12 @@
+[0517/113359.545:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.547:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll
+[0517/113359.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.548:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll
+[0517/113359.556:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.558:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll
+[0517/113359.560:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.560:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll
+[0517/113359.560:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.560:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll
+[0517/113359.620:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd8f340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0517/113359.620:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\74.0.3729.131\chrome_child.dll

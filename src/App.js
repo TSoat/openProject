@@ -21,14 +21,18 @@ function App() {
         >
           Facebook
         </a>
-		<a
-          className="App-link"
-          href="https://github.com/TSoat/openProject"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Go to download this site repository
-        </a>
+		<p>
+			Go to &nbsp;
+			<a
+			className="App-link"
+			href="https://github.com/TSoat/openProject"
+			target="_blank"
+			rel="noopener noreferrer"
+			>
+			git repository
+			</a>
+			&nbsp; of this site.
+		</p>
       </header>
     </div>
   );
