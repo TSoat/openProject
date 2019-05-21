@@ -28,6 +28,7 @@ button {
   font-size: 16px;
   color: white;
   padding: 9px 32px;
+  margin: 10px;
   border-radius: 8px;
   border: none;
   -webkit-transition-duration: 0.4s;
@@ -37,7 +38,7 @@ button {
 button:hover{
   background-color: white;
   font-size: 16px;
-  color: black;
+  color: #61dafb;
   padding: 9px 32px;
   border-radius: 8px;
   border: none;

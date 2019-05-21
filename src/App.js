@@ -25,8 +25,11 @@ function App() {
 			          git repository
 			       </a>
 			    &nbsp; of this site.</p>
-          <button id = "nextButton" class = "button">Next</button>
-      </header>
+          <div class="btn-group">
+            <button id = "nextButton" class = "button">Next</button>
+            <button id = "cancelButton" class = "button">Cancel</button>
+          </div>
+        </header>
     </div>
   );
 }
