@@ -26,8 +26,8 @@ function App() {
 			       </a>
 			    &nbsp; of this site.</p>
           <div class="btn-group">
-            <button id = "nextButton" class = "button">Next</button>
-            <button id = "cancelButton" class = "button">Cancel</button>
+            <button id = "nextButton">Next</button>
+            <button id = "cancelButton">Cancel</button>
           </div>
         </header>
     </div>
